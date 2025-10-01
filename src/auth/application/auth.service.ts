@@ -1,4 +1,3 @@
-// src/auth/auth.service.ts
 import jwt, { Algorithm } from 'jsonwebtoken';
 import bcrypt from 'bcrypt';
 import { randomUUID, createHash } from 'node:crypto';
